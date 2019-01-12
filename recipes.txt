@@ -5,4 +5,7 @@ kheer
 Bhaji
 Halwa
 
+Beans
+Paratha
+
 Thank you
